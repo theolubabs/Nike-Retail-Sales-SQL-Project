@@ -2,7 +2,7 @@
 SQL was used to clean and analyze a disorganized retail sales dataset. concentrated on creating insights, cleaning data, and exploring it all within MySQL.
 
 
-![](https://github.com/theolubabs/Nike-Retail-Sales-SQL-Project/blob/main/s-l400.jpg)
+![](https://github.com/theolubabs/Nike-Retail-Sales-SQL-Project/blob/main/Nike.png)
 
 ## Introduction: 
 This project explores a synthetic retail dataset using pure SQL. The dataset mimics real-world Nike sales data and includes key business variables like product lines, discounts, regions, revenue, and profit.
